@@ -11,6 +11,7 @@ This project uses lot of stuff as:
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
 - [Jest](https://jestjs.io/)
 - [Eslint](https://eslint.org/)
+- [Husky](https://github.com/typicode/husky)
 - [Prettier](https://prettier.io/)
 - [React Router Dom](https://reactrouter.com/)
 - [History](https://github.com/ReactTraining/react-history)
